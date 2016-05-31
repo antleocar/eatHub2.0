@@ -45,7 +45,6 @@ class Step(models.Model):
     #recipe = models.ForeignKey(Recipe, related_name='recipes',default='')
 
 
-
 class Picture(models.Model):
     image = models.ImageField(upload_to="images/", null=False)
 
