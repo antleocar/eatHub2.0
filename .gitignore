@@ -1,3 +1,5 @@
 *.idea
 *.pyc
 eathub/
+eathubApp/webapp/migrations/
+eathubApp/webapp/db.sqlite3
