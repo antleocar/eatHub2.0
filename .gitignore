@@ -2,4 +2,4 @@
 *.pyc
 eathub/
 eathubApp/webapp/migrations/
-eathubApp/webapp/db.sqlite3
+eathubApp/db.sqlite3
